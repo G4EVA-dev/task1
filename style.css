@@ -6,6 +6,10 @@
   
 }
 
+#info{
+  margin-left: 800px;
+}
+
 /* Animation initialization*/
 @keyframes example {
   0%   {color: red;}
